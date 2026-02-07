@@ -1,58 +1,58 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "O Duque e Eu (Bridgerton #1)",
-      "author": "Julia Quinn",
-      "year": 2000,
-      "status": "Lido",
-      "coverUrl": "",
-      "description": "Romance de época em que Daphne Bridgerton e Simon Basset fazem um acordo que vira algo bem mais complicado."
-    },
-    {
-      "id": 2,
+      "id": "2",
       "title": "O Visconde que Me Amava (Bridgerton #2)",
       "author": "Julia Quinn",
       "year": 2000,
       "status": "Quero ler",
-      "coverUrl": "",
-      "description": "Anthony Bridgerton decide se casar por dever, mas acaba envolvido em uma disputa inteligente com Kate Sharma/Sheffield."
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/0380815575-L.jpg",
+      "description": "Anthony Bridgerton, o visconde responsável pela família, decide que é hora de se casar — não por romance, mas por dever e estabilidade. Ele escolhe uma jovem considerada perfeita para ocupar esse papel, mas há um problema: a irmã dela, Kate, é inteligente, desconfiada e não acredita que Anthony seja o tipo de homem que merece o coração de alguém. Determinada a proteger a irmã, Kate vira o maior obstáculo do visconde, e cada encontro entre os dois vira uma batalha de argumentos e provocações. Só que, conforme a rivalidade cresce, Anthony percebe que a pessoa que mais o desafia também é a que mais o atrai. Entre orgulho, medo e expectativas, os dois precisam aprender a ser honestos consigo mesmos."
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Harry Potter e a Pedra Filosofal",
       "author": "J.K. Rowling",
       "year": 1997,
       "status": "Lendo",
       "coverUrl": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg",
-      "description": "Harry descobre um novo mundo ao entrar em Hogwarts, fazendo amizades e enfrentando mistérios do seu passado."
+      "description": "Harry cresce sem entender por que coisas estranhas acontecem ao seu redor, até receber uma carta que muda tudo: ele foi aceito em Hogwarts, uma escola de magia. Ao entrar nesse novo mundo, ele faz amizades importantes, descobre mais sobre seus pais e começa a entender por que seu nome é tão conhecido. Enquanto se adapta às aulas, casas e regras do castelo, acontecimentos misteriosos indicam que algo valioso está escondido em Hogwarts e que alguém quer colocá-lo em perigo. Entre descobertas e desafios, Harry precisa confiar em seus amigos e em sua coragem para enfrentar o que está por trás dos segredos do castelo."
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Harry Potter e a Câmara Secreta",
       "author": "J.K. Rowling",
       "year": 1998,
       "status": "Quero ler",
       "coverUrl": "https://covers.openlibrary.org/b/isbn/9780747538493-L.jpg",
-      "description": "No segundo ano em Hogwarts, acontecimentos estranhos colocam alunos em perigo e um segredo antigo volta à tona."
+      "description": "No segundo ano em Hogwarts, Harry volta esperando mais tranquilidade, mas uma sequência de ataques deixa alunos amedrontados e o castelo em alerta. Mensagens assustadoras aparecem nas paredes anunciando que a Câmara Secreta foi aberta — e ninguém sabe por quem. Conforme as suspeitas aumentam e a tensão cresce, Harry se vê no centro das atenções novamente, precisando entender o que liga os ataques ao passado da escola. Com a ajuda dos amigos, ele investiga pistas, enfrenta preconceitos e tenta descobrir a origem do perigo antes que seja tarde. O mistério envolve história, coragem e decisões rápidas em meio ao caos."
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Percy Jackson e o Ladrão de Raios",
       "author": "Rick Riordan",
       "year": 2005,
       "status": "Lido",
       "coverUrl": "https://covers.openlibrary.org/b/isbn/9780786838653-L.jpg",
-      "description": "Percy descobre ser um semideus e embarca numa missão para recuperar um objeto poderoso e evitar uma guerra divina."
+      "description": "Percy sempre teve dificuldades na escola e vive se metendo em confusão, mas tudo muda quando ele descobre que é um semideus e que os mitos gregos são reais. Acusado de roubar um objeto poderoso, ele é lançado em uma missão urgente para evitar uma guerra entre os deuses. Ao lado de novos aliados, Percy atravessa lugares perigosos, enfrenta criaturas míticas e precisa aprender a confiar em si mesmo. Ao mesmo tempo, ele tenta entender sua origem e o papel que deve cumprir nesse mundo escondido. A aventura mistura humor, ação e mistério, com escolhas que definem lealdade e coragem."
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Jogos de Herança (The Inheritance Games)",
       "author": "Jennifer Lynn Barnes",
       "year": 2020,
       "status": "Lendo",
-      "coverUrl": "",
-      "description": "Avery herda uma fortuna inesperada e precisa desvendar enigmas cercada por uma família cheia de segredos e jogos."
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780759555402-L.jpg",
+      "description": "Avery tem uma vida comum até receber a notícia impossível: um bilionário desconhecido deixou para ela quase toda a herança. Para entender o motivo e garantir sua segurança, ela precisa morar na mansão da família Hawthorne, cercada por luxos e por herdeiros que acreditam que tudo deveria ser deles. A casa é cheia de passagens secretas, jogos e enigmas, e cada pista parece apontar para um segredo maior. Enquanto tenta decifrar a lógica por trás do testamento, Avery percebe que nada é simples: há alianças, rivalidades e interesses escondidos por todos os lados. A história mistura mistério, inteligência e tensão constante — como um quebra-cabeça que exige atenção a cada detalhe."
+    },
+    {
+      "id": "9344",
+      "title": "Percy Jackson e o Mar de Monstros",
+      "author": "Rick Riordan",
+      "year": 2006,
+      "status": "Lido",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780786856862-L.jpg",
+      "description": "O acampamento meio-sangue está em perigo e Percy precisa recuperar o Velocino de Ouro para salvar a barreira mágica que protege o local. Em uma jornada cheia de monstros, aliados inesperados e reviravoltas, ele aprende mais sobre sua família, seu destino e o preço de ser um herói."
     }
   ]
 }
