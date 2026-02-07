@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "O Duque e Eu (Bridgerton #1)",
+      "author": "Julia Quinn",
+      "year": 2000,
+      "status": "Lido",
+      "coverUrl": "",
+      "description": "Romance de época em que Daphne Bridgerton e Simon Basset fazem um acordo que vira algo bem mais complicado."
+    },
+    {
+      "id": 2,
+      "title": "O Visconde que Me Amava (Bridgerton #2)",
+      "author": "Julia Quinn",
+      "year": 2000,
+      "status": "Quero ler",
+      "coverUrl": "",
+      "description": "Anthony Bridgerton decide se casar por dever, mas acaba envolvido em uma disputa inteligente com Kate Sharma/Sheffield."
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter e a Pedra Filosofal",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "status": "Lendo",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg",
+      "description": "Harry descobre um novo mundo ao entrar em Hogwarts, fazendo amizades e enfrentando mistérios do seu passado."
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter e a Câmara Secreta",
+      "author": "J.K. Rowling",
+      "year": 1998,
+      "status": "Quero ler",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780747538493-L.jpg",
+      "description": "No segundo ano em Hogwarts, acontecimentos estranhos colocam alunos em perigo e um segredo antigo volta à tona."
+    },
+    {
+      "id": 5,
+      "title": "Percy Jackson e o Ladrão de Raios",
+      "author": "Rick Riordan",
+      "year": 2005,
+      "status": "Lido",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780786838653-L.jpg",
+      "description": "Percy descobre ser um semideus e embarca numa missão para recuperar um objeto poderoso e evitar uma guerra divina."
+    },
+    {
+      "id": 6,
+      "title": "Jogos de Herança (The Inheritance Games)",
+      "author": "Jennifer Lynn Barnes",
+      "year": 2020,
+      "status": "Lendo",
+      "coverUrl": "",
+      "description": "Avery herda uma fortuna inesperada e precisa desvendar enigmas cercada por uma família cheia de segredos e jogos."
+    }
+  ]
+}
