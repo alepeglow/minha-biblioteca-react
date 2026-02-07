@@ -1,0 +1,30 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Env
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / tooling
+dist/
+build/
+.vscode/
+.idea/
+coverage/
+.nyc_output/
+
+# Vite
+/.vite
+
+# Lockfiles (optional)
+# package-lock.json
+# yarn.lock
